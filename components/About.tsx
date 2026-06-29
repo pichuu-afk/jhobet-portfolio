@@ -1,8 +1,8 @@
 "use client";
 
 const STATS = [
-  { num: "4+", label: "Years experience" },
-  { num: "10+", label: "Projects shipped" },
+  { num: "2+", label: "Years experience" },
+  { num: "15+", label: "Projects shipped" },
   { num: "3", label: "Tech domains" },
   { num: "BS", label: "Information Technology" },
 ];
