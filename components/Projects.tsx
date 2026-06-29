@@ -31,7 +31,7 @@ const PROJECTS = [
     tags: ["HTML/CSS", "JavaScript", "SEO"],
     features: [],
     featured: false,
-    href: "https://crilinesacademy.com",
+    href: "https://crilinesacademy.github.io",
   },
 ];
 
