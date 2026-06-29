@@ -29,7 +29,7 @@ export default function Crilines() {
             ))}
           </div>
           <a
-            href="https://crilinesacademy.com"
+            href="https://crilinesacademy.github.io"
             target="_blank"
             rel="noopener noreferrer"
             style={{ fontSize: 13, color: "#7C3AED", fontWeight: 500, textDecoration: "none" }}
