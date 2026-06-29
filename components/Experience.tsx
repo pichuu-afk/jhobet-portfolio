@@ -5,7 +5,7 @@ const EXPERIENCE = [
     role: "Technical Manager · Operations Manager",
     company: "CAL Agency",
     date: "June 2024 – April 2026",
-    description: "Architected and maintained n8n automation workflows and Airtable systems that reduced manual processing time across agency operations. Led technical project delivery for multiple digital teams, developed internal web tools and automation dashboards, managed API integrations and Google Apps Script solutions for cross-platform data syncing, and provided technical leadership by mentoring team members and setting engineering best practices.",
+    description: "Started as an Operations Manager, leading daily operations by supervising account creation teams, ensuring compliance with standard operating procedures (SOPs), maintaining data accuracy, and driving team performance through quality assurance and productivity monitoring. Later transitioned into the Technical Manager role, where I designed workflow automations using n8n, Airtable, REST APIs, and Google Apps Script to streamline business operations. I also developed internal tools, automated cross-platform data synchronization, and provided technical leadership by mentoring team members and improving engineering workflows.",
   },
   {
     role: "Content Development & Web Operations Lead",
